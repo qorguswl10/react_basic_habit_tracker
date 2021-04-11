@@ -7,7 +7,7 @@ import '@fortawesome/fontawesome-free/js/all.js';
 
 ReactDOM.render(
 	<React.StrictMode>
-		<SimpleHabit />
+		<App />
 	</React.StrictMode>,
 	document.getElementById('root')
 );
